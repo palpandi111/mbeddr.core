@@ -71,6 +71,10 @@
       <property role="TrG5h" value="path" />
       <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
     </node>
+    <node concept="1TJgyi" id="4Syn0ueWZxW" role="1TKVEl">
+      <property role="TrG5h" value="libraryName" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+    </node>
     <node concept="1TJgyi" id="2H_mjOXq7Zb" role="1TKVEl">
       <property role="TrG5h" value="os" />
       <ref role="AX2Wp" node="2H_mjOXq4_C" resolve="OperatingSystem" />
